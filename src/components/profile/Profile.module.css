@@ -3,14 +3,14 @@
   border-radius: 5px;
   width: 400px;
   margin: 100px auto 50px auto;
-  background-color: rgba(255, 255, 255, 0.616);
+  background-color: rgba(255, 255, 255, 0.7);
 }
 
 .userAvatar {
   border-radius: 100%;
   margin: 0px 90px;
   width: 200px;
-  background-color: greenyellow;
+  background-color: darkturquoise;
 }
 
 .description {
@@ -34,7 +34,7 @@
   padding: 15px 0px;
   font-size: 18px;
   font-weight: bold;
-  color: rgba(61, 61, 61, 0.658);
+  color: rgba(70, 70, 70, 0.7);
 }
 
 .descriptionLocation {
@@ -42,7 +42,7 @@
   padding-bottom: 40px;
   font-size: 18px;
   font-weight: bold;
-  color: rgba(61, 61, 61, 0.658);
+  color: rgba(70, 70, 70, 0.7);
 }
 
 .statsList {
@@ -63,7 +63,7 @@
   height: 50px;
   padding: 50px 0px;
   border-right: 1px solid rgba(0, 0, 0, 0.15);
-  background-color: rgba(192, 192, 192, 0.212);
+  background-color: rgba(190, 190, 190, 0.2);
 }
 
 .containBlock:last-of-type {
@@ -73,7 +73,7 @@
 .statsLabel {
   font-size: 18px;
   font-weight: bold;
-  color: rgba(61, 61, 61, 0.658);
+  color: rgba(70, 70, 70, 0.7);
   display: block;
   padding: 5px 0px;
 }
