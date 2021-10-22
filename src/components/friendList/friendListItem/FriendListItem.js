@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
 import styles from "./FriendListItem.module.css";
 
-const { item, status, online, offline, userAvatar, userName } = styles;
+const { item, online, offline, userAvatar, userName } = styles;
 
 const FriendListItem = ({ avatar, name, isOnline }) => {
   return (
